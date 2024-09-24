@@ -1,2 +1,2 @@
 # test
-test doang apa gitu
+test test
